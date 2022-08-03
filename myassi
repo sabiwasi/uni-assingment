@@ -1,5 +1,5 @@
-
-
+import java.util.*;
+import java.text.DecimalFormat;
 
 public class converter {
 !
@@ -36,8 +36,7 @@ public class converter {
                         break;
                 }
 
-                System.out.println("Thank you for using the co:wq
-nverter.");
+                System.out.println("Thank you for using the converter.");
 
         }
 }
